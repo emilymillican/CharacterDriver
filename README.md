@@ -1,4 +1,4 @@
-# Programming Assignment Two - CSCI3753 Operating Systems
+# Programming Assignment Two - Operating Systems
 
 Created a loadable kernel module to install a simple character device driver. Also created a device file  in the /dev folder to work with the character device driver. Then, used an interactive testing program to allow a user to read from and write to the device file.
 
